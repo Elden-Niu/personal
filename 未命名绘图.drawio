@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T02:22:49.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="pNV_bBnYdvqHFsWIockY" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-09T02:23:44.025Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Pt08wv1PNmXog3_vAnQv" version="24.6.4" type="github">
   <diagram name="第 1 页" id="0yziPrTlGx9PvfhWouy7">
     <mxGraphModel dx="1195" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -238,13 +238,13 @@
         <mxCell id="9kN9pM6WHrieHIEHuWm_-73" value="智慧园区" style="rounded=0;whiteSpace=wrap;fontSize=11;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="348" y="54" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9kN9pM6WHrieHIEHuWm_-74" value="智慧楼宇" style="rounded=0;whiteSpace=wrap;fontSize=11;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="9kN9pM6WHrieHIEHuWm_-74" value="智慧工厂" style="rounded=0;whiteSpace=wrap;fontSize=11;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="462" y="54" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9kN9pM6WHrieHIEHuWm_-75" value="智慧工场" style="rounded=0;whiteSpace=wrap;fontSize=11;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="9kN9pM6WHrieHIEHuWm_-75" value="智慧机器人" style="rounded=0;whiteSpace=wrap;fontSize=11;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="576" y="54" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9kN9pM6WHrieHIEHuWm_-76" value="智慧XX" style="rounded=0;whiteSpace=wrap;fontSize=11;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="9kN9pM6WHrieHIEHuWm_-76" value="智慧AI+" style="rounded=0;whiteSpace=wrap;fontSize=11;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="690" y="54" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
