@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T08:19:31.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="MoPZyIrSWZhoFgLX2Q55" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-09T08:27:15.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="XriXCDcH6DJ2mfnxXorN" version="24.6.4" type="github">
   <diagram name="第 1 页" id="0yziPrTlGx9PvfhWouy7">
     <mxGraphModel dx="1195" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -256,8 +256,8 @@
         <mxCell id="QSi5W7rZJSZRLODXNmnk-1" value="定制API" style="rounded=0;whiteSpace=wrap;fontSize=11;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="554" y="270" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QSi5W7rZJSZRLODXNmnk-2" value="管理客户端" style="rounded=0;whiteSpace=wrap;fontSize=11;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="900" y="390.5" width="740" height="60" as="geometry" />
+        <mxCell id="QSi5W7rZJSZRLODXNmnk-2" value="系统管理客户端&#xa;网页/exe" style="rounded=0;whiteSpace=wrap;fontSize=11;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="900" y="373" width="740" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QSi5W7rZJSZRLODXNmnk-4" value="UE&#xa;.uproject/文件夹" style="rounded=0;whiteSpace=wrap;fontSize=11;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="900" y="510" width="340" height="60" as="geometry" />
@@ -265,23 +265,23 @@
         <mxCell id="QSi5W7rZJSZRLODXNmnk-5" value="TW&#xa;.datasmith" style="rounded=0;whiteSpace=wrap;fontSize=11;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1330" y="510" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QSi5W7rZJSZRLODXNmnk-6" value="场景编辑客户端" style="rounded=0;whiteSpace=wrap;fontSize=11;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="QSi5W7rZJSZRLODXNmnk-6" value="场景编辑客户端&#xa;网页/exe" style="rounded=0;whiteSpace=wrap;fontSize=11;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="900" y="595" width="740" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QSi5W7rZJSZRLODXNmnk-8" value="系统管理&#xa;路径管理，预加载开关，服务状态，并发限制" style="rounded=0;whiteSpace=wrap;fontSize=11;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1330" y="305.5" width="310" height="60" as="geometry" />
+          <mxGeometry x="1330" y="288" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QSi5W7rZJSZRLODXNmnk-9" value="场景管理&#xa;上传场景，更新场景，删除场景，渲染口令" style="rounded=0;whiteSpace=wrap;fontSize=11;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="900" y="305.5" width="340" height="60" as="geometry" />
+          <mxGeometry x="900" y="288" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QSi5W7rZJSZRLODXNmnk-10" value="运行客户端" style="rounded=0;whiteSpace=wrap;fontSize=11;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="900" y="195" width="740" height="60" as="geometry" />
+        <mxCell id="QSi5W7rZJSZRLODXNmnk-10" value="开发客户端&#xa;网页/exe" style="rounded=0;whiteSpace=wrap;fontSize=11;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="900" y="155" width="740" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QSi5W7rZJSZRLODXNmnk-11" value="系统管理&#xa;路径管理，预加载开关，服务状态，并发限制" style="rounded=0;whiteSpace=wrap;fontSize=11;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1330" y="110" width="310" height="60" as="geometry" />
+        <mxCell id="QSi5W7rZJSZRLODXNmnk-11" value="单机开发&#xa;EXE二进制" style="rounded=0;whiteSpace=wrap;fontSize=11;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1330" y="70" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QSi5W7rZJSZRLODXNmnk-12" value="场景管理&#xa;上传场景，更新场景，删除场景，渲染口令" style="rounded=0;whiteSpace=wrap;fontSize=11;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="900" y="110" width="340" height="60" as="geometry" />
+        <mxCell id="QSi5W7rZJSZRLODXNmnk-12" value="网页开发&#xa;API接口" style="rounded=0;whiteSpace=wrap;fontSize=11;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="900" y="70" width="340" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
